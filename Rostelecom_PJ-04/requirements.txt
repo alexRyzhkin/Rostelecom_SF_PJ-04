@@ -1,0 +1,5 @@
+1.selenium
+2.pytest-selenium
+3.pytest
+4.allure
+5.termcolor
